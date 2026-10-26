@@ -55,6 +55,8 @@ backend fundamentals.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6420AA?style=flat-square)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 **Data & Messaging**
 
