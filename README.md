@@ -53,6 +53,8 @@ backend fundamentals.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6420AA?style=flat-square)
 
 **Data & Messaging**
 
@@ -82,17 +84,6 @@ backend fundamentals.
 - **[RAG Knowledge Engine](https://github.com/NakS15/RAG-Knowledge-Engine)** — Retrieval-augmented generation over PostgreSQL + pgvector, grounded on the Anthropic API.
 - **[MCP Tool Server](https://github.com/NakS15/MCP-tool-server)** — A working Model Context Protocol server exposing typed tools to LLM clients.
 - **[Saree Marketplace MVP](https://github.com/NakS15/saree)** — Full-stack marketplace side project (React, Node.js, MongoDB).
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Nakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=NakS15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NakS15&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
